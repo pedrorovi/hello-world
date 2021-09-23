@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+ 
+ Hola 
+ Soy Pedro, me gusta comer burritos 
